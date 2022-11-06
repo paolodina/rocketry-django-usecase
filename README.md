@@ -23,14 +23,17 @@ Regular command real run.
 
 ```bash
 $ python manage.py importer --real-run
-fake run
+real run
 ```
 
 Scheduled command real run.
 
 ```bash
 $ python manage.py importer --real-run --scheduled
-fake run
+real run
+real run
+real run
+...etc...
 ```
 
 ## How I did
