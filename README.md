@@ -38,6 +38,8 @@ real run
 
 ## How I did
 
+https://github.com/paolodina/rocketry-django-usecase/tree/main/usecase/management/commands
+
 Currently I'm "pinning" `args` and `options` using global variables, which looks
 ugly (because we are not used to see something like that often?), but it works.
 
